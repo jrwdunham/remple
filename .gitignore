@@ -1,0 +1,19 @@
+*.py[co]
+*.swp
+*~
+.cache
+
+# Sqlite DBs
+*.db
+
+# Sphinx docs
+/docs/_build
+
+# Compiled translation files
+*.mo
+
+# Coverage data
+.coverage
+
+# tox working directory
+.tox/
